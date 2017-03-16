@@ -11,8 +11,8 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "^6.*.*",
-        "symfony/console": "~v3.2.*"
+        "guzzlehttp/guzzle": "6.*.*",
+        "symfony/console": "v3.2.*"
     },
     "bin": [
         "craft"
