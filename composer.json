@@ -1,8 +1,8 @@
 {
-    "name": "themccallister/craft",
+    "name": "sparkison/craft",
     "description": "Install Craft CMS from the command line.",
     "keywords": ["craft","craftcms"],
-    "homepage": "http://github.com/themccallister/craft",
+    "homepage": "https://github.com/sparkison/craft",
     "license": "MIT",
     "authors": [
         {
