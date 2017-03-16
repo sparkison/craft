@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "4.2.*",
+        "guzzlehttp/guzzle": "^6.*.*",
         "symfony/console": "2.7.*"
     },
     "bin": [
